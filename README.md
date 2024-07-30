@@ -1,6 +1,7 @@
 # Netflix Clone
 
 This project is a clone of the Netflix homepage, built using HTML, CSS, and JavaScript. It aims to replicate the look and feel of Netflix's landing page, including interactive features such as FAQ toggle sections.
+![image](https://github.com/user-attachments/assets/2cc23137-4274-427f-ad21-0e06c8d231c1)
 
 ## Table of Contents
 
@@ -11,6 +12,7 @@ This project is a clone of the Netflix homepage, built using HTML, CSS, and Java
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
 
 ## Features
 
